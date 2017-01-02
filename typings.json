@@ -1,0 +1,10 @@
+{
+  "name": "electron-config",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/sindresorhus/electron-config",
+  "version": "0.2.1",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {
+  }
+}
